@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Orbitron'), url('https://fonts.gstatic.com/s/orbitron/v12/yMJRMIlzdpvBhQQL_Qq7dys.ttf') 
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'SpaceFont';
+    src: url('.ttf') format('truetype'); /* Adjust the path as necessary */
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'MyCustomFont', sans-serif; /* Use your custom font */
+}
